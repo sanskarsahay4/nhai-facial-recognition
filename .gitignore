@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+.vscode/
+
+*.log
+crash*.txt
+
+AppEntry.bundle.js
+dev-bundle.js
+dev-bundle2.js
+dev-bundle3.js
+
+android/app/build/
+android/.gradle/
+
+dist/
+build/
