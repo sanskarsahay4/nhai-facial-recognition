@@ -1,0 +1,39 @@
+{
+  "name": "nhai-facial-recognition",
+  "version": "1.0.0",
+  "description": "Production-grade offline facial recognition system for NHAI field operations",
+  "main": "expo/AppEntry",
+  "scripts": {
+    "dev": "expo start",
+    "dev-client": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.0",
+    "axios": "^1.6.0",
+    "expo": "~52.0.0",
+    "expo-constants": "~17.0.8",
+    "expo-dev-client": "~5.0.20",
+    "expo-file-system": "~18.0.12",
+    "expo-image-manipulator": "~13.0.6",
+    "expo-location": "~18.0.10",
+    "expo-sharing": "~13.0.1",
+    "expo-sqlite": "~15.1.4",
+    "react": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-background-timer": "^2.4.0",
+    "react-native-fast-tflite": "^2.0.0",
+    "react-native-keychain": "^8.0.0",
+    "react-native-network-info": "^5.2.0",
+    "react-native-reanimated": "^3.14.0",
+    "react-native-vision-camera": "^4.6.4",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "~18.3.12",
+    "@types/uuid": "^9.0.8",
+    "typescript": "^5.3.3"
+  }
+}
