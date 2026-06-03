@@ -16,7 +16,6 @@
       "expo-dev-client"
     ],
     "ios": {
-      "supportsTabletMode": false,
       "buildNumber": "1",
       "infoPlist": {
         "NSCameraUsageDescription": "Camera access required for facial recognition",
@@ -36,8 +35,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9e7c596e-97dd-483c-8598-1d16d23f23f1"
+        "projectId": "a7cb6051-504e-4401-b6d3-1d3192f69f28"
       }
-    }
+    },
+    "owner": "sanskarsahay4"
   }
 }
