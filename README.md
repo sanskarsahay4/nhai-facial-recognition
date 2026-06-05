@@ -8,6 +8,12 @@
 ![Inference](https://img.shields.io/badge/Inference-<500ms-brightgreen)
 ![RAM](https://img.shields.io/badge/Memory-<100MB-brightgreen)
 
+## 🚀 Hackathon Submission Assets
+To make it seamless for the evaluation committee, all core deliverables are hyperlinked below:
+* **🎥 [Watch the Project Demo Video](https://drive.google.com/file/d/1ZusjMXtzL0Ig_NI6yRHSGIn5ByyJJMUs/view?usp=drive_link)** — *A comprehensive walkthrough showing offline registration, active blink verification, and automatic background AWS sync.*
+* **📄 [Download the PPT Presentation (PDF Version)](https://drive.google.com/file/d/1eoQpJSJWG0-TJpO41qiXxw3Je8hxg_Wq/view?usp=drive_link)** — *Detailed breakdown of optimization metrics, INT8 model precision, and deployment architecture.*
+* **📱 [Direct Production APK Download](https://expo.dev/artifacts/eas/wZaL68Xz41Gb7mEwUdivHh.apk)** — *Pre-compiled Android package bundling all quantized TFLite models for immediate, 100% offline field testing.*
+
 ## 🎯 Overview
 
 A lightweight, offline-first facial recognition system for NHAI (National Highways Authority of India) field operations. Designed for mid-range Android/iOS devices with intermittent connectivity.
